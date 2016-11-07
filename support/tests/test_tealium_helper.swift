@@ -48,6 +48,7 @@ let testDataDictionary : [String:AnyObject]  =
         TealiumKey.sessionId : TealiumTestValue.sessionId as AnyObject,
         TealiumKey.visitorId :TealiumTestValue.visitorID as AnyObject,
         TealiumKey.legacyVid : TealiumTestValue.visitorID as AnyObject,
+        TealiumKey.visitorIdDeprecated : TealiumTestValue.visitorID as AnyObject,
         TealiumKey.random : TealiumTestValue.random as AnyObject
     ]
 

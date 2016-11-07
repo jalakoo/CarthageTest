@@ -214,7 +214,8 @@ class TealiumDataManager {
                     TealiumKey.libraryName: TealiumValue.libraryName,
                     TealiumKey.libraryVersion: TealiumValue.libraryVersion,
                     TealiumKey.visitorId: vid,
-                    TealiumKey.legacyVid: vid]
+                    TealiumKey.legacyVid: vid,
+                    TealiumKey.visitorIdDeprecated: vid]
         
         return data as [String : AnyObject]
     }

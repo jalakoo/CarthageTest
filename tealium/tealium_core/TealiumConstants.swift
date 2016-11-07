@@ -20,7 +20,9 @@ enum TealiumKey {
     static let random = "tealium_random"
     static let sessionId = "tealium_session_id"
     static let timestampEpoch = "tealium_timestamp_epoch"
-    static let visitorId = "tealium_visitor_id"
+    static let visitorId = "tealium_firstparty_visitor_id"
+    static let visitorIdDeprecated = "tealium_visitor_id"
+
 }
 
 enum TealiumModuleConfigKey {

@@ -9,9 +9,24 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>TealiumSwiftIOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>2258C1551DD250CC00E83806</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2258C15D1DD250CC00E83806</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>2759E0421AC24EE500948321</key>
 		<dict>
 			<key>primary</key>

@@ -9,7 +9,7 @@
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "376AA1A6-BAAC-4BEC-B6FA-CE5FC744A4EC",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "C45592CEF2CCAA7230D4D18AF8A84C72AA12972E" : "tealium-swift\/",
+    "C45592CEF2CCAA7230D4D18AF8A84C72AA12972E" : "1.1\/",
     "75224C288D14A799245F99223249EF48FF5DC280" : "tealium-swift\/tealium\/tealium_debug\/Swifter\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "tealium-swift",

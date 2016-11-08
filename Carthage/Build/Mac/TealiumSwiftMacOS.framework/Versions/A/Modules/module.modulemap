@@ -1,0 +1,10 @@
+framework module TealiumSwiftMacOS {
+  umbrella header "TealiumSwiftMacOS.h"
+
+  export *
+  module * { export * }
+}
+
+module TealiumSwiftMacOS.Swift {
+    header "TealiumSwiftMacOS-Swift.h"
+}
